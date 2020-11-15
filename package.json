@@ -1,0 +1,22 @@
+{
+  "name": "aoc2018",
+  "version": "1.0.0",
+  "description": "Advent of code 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andywarduk/aoc2018.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andywarduk/aoc2018/issues"
+  },
+  "homepage": "https://github.com/andywarduk/aoc2018#readme",
+  "dependencies": {
+    "pngjs": "^6.0.0"
+  }
+}
