@@ -1,5 +1,4 @@
 const fs = require('fs');
-const { mainModule } = require('process');
 
 main()
 
