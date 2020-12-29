@@ -18,5 +18,8 @@
   "homepage": "https://github.com/andywarduk/aoc2018#readme",
   "dependencies": {
     "pngjs": "^6.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.13.0"
   }
 }
